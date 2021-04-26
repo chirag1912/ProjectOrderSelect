@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.tabs {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+}
+
+.tab {
+  padding: 10px;
+  border: 1px solid black;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.tab:hover {
+  background-color: #28a745;
+}

@@ -1,0 +1,32 @@
+.symbol {
+  background-color: beige;
+  margin: 4px;
+  /*padding: 4px; */
+  height: 3em;
+  width: 3em;
+  border: 1px dotted;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 25px; 
+  font-display: center;
+  font-weight: bold;
+}
+
+.inputFormGroup{
+    display:inline-flex;
+}
+
+
+.spanrow{
+  padding: 10px;
+  border: 1px solid;
+  text-align: auto;
+  color:black;
+  display:flex;
+  flex:content;
+}
+
+.table-1{
+  border: 1px solid;
+}
+
